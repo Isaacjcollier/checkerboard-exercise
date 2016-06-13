@@ -7,5 +7,6 @@ for (var j = 0; j < 72 ; j+= 2) {
   var front = document.createElement('div');
   var blkSquare = document.body.appendChild(front);
   blkSquare.style = "width: 11.1%; height: 100px; background-color: black; float: left "
+
   
 }
